@@ -1,2 +1,2 @@
-# luna.walnutbrains.org
+# bubbles.walnutbrains.org
 Hello Cat website to practice webserver administration.
