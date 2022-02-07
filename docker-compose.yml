@@ -1,7 +1,7 @@
 version: '3'
 services:
   web:
-    image: apache2
+    image: bubbles_walnutbrains_org:1.0.0
     build: .
     container_name: bubbles_walnutbrains_org
     environment:
